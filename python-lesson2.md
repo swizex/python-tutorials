@@ -27,7 +27,7 @@ Click on "New Project"
 
 and a new window will appear:
 
-![...](https://github.com/swizex/python-tutorials/tree/master/lesson 2 materials/new_project_initial_screen_001.jpg)
+![...](https://github.com/swizex/python-tutorials/tree/master/lesson_2_materials/new_project_initial_screen_001.jpg)
 
 
 Here's the rundown of everything:
