@@ -133,31 +133,38 @@ Now lets break it all down:
 
 
 ```python
-from flask import Flask, render_template``` - This imports everything we need.
+from flask import Flask, render_template
+``` - This imports everything we need.
 
 
 ```python
-app = Flask(__name__)``` - Declaring a new Flask app.
+app = Flask(__name__)
+``` - Declaring a new Flask app.
 
 
 ```python
-@app.route('/', methods=['GET'])``` - This decorator tells flask to map our `/` directory (root) to the function below it.
+@app.route('/', methods=['GET'])
+``` - This decorator tells flask to map our `/` directory (root) to the function below it.
 
 
 ```python
-def index_page_landing():``` - Our function for the index page ( `/` root directory).
+def index_page_landing():
+``` - Our function for the index page ( `/` root directory).
 
 
 ```python
-return render_template('index.html')``` - Returns an HTML template, in our case its `index.html`.
+return render_template('index.html')
+``` - Returns an HTML template, in our case its `index.html`.
 
 
 ```python
-if __name__ == "__main__":```- Tells compiler to run the following code below it (when run from cmd).
+if __name__ == "__main__":
+```- Tells compiler to run the following code below it (when run from cmd).
 
 
 ```python
-app.run()``` - Starts an internal developer server to serve our flask app.
+app.run()
+``` - Starts an internal developer server to serve our flask app.
 
 
 It should look like this (right-click on `app.py` and choose run):
