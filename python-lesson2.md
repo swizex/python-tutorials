@@ -27,7 +27,7 @@ Click on "New Project"
 
 and a new window will appear:
 
-![](https://github.com/swizex/python-tutorials/tree/master/lesson 2 materials/new_project_initial_screen_001.jpg)
+![...](https://github.com/swizex/python-tutorials/tree/master/lesson 2 materials/new_project_initial_screen_001.jpg)
 
 
 Here's the rundown of everything:
@@ -45,7 +45,7 @@ Click on Create and it will begin doing its magic to set things up.
 
 The projects Tree-view should look similar to this:
 
-![](https://github.com/swizex/python-tutorials/tree/master/lesson 2 materials/initial_treeview_001.jpg)
+![...](https://github.com/swizex/python-tutorials/tree/master/lesson 2 materials/initial_treeview_001.jpg)
 
 
 Now lets add a new file, `app.py` into our Root folder (in this case its `python_lesson_2_code`).
@@ -56,7 +56,7 @@ New -> Python File, name it `app`, and presto!, you're done!
 
 It should look like this:
 
-![](https://github.com/swizex/python-tutorials/tree/master/lesson 2 materials/treeview_002.jpg)
+![...](https://github.com/swizex/python-tutorials/tree/master/lesson 2 materials/treeview_002.jpg)
 
 
 In order to start codding away we need to get some modules installed!
@@ -73,18 +73,18 @@ To install flask we can simply use the following command:
 
 click on the terminal tab, write it down, and press enter!
 
-![](https://github.com/swizex/python-tutorials/tree/master/lesson 2 materials/open_terminal_001.jpg)
+![...](https://github.com/swizex/python-tutorials/tree/master/lesson 2 materials/open_terminal_001.jpg)
 
 
 Terminal:
 
 
-![](https://github.com/swizex/python-tutorials/tree/master/lesson 2 materials/terminal_install_001.jpg)
+![...](https://github.com/swizex/python-tutorials/tree/master/lesson 2 materials/terminal_install_001.jpg)
 
 
 It should install flask and show you this:
 
-![](https://github.com/swizex/python-tutorials/tree/master/lesson 2 materials/temrinal_install_002.jpg)
+![...](https://github.com/swizex/python-tutorials/tree/master/lesson 2 materials/temrinal_install_002.jpg)
 
 
 Now that we have all the modules we need (for now...) we can start codding!
@@ -104,7 +104,7 @@ and create two new directories:
 
 It should look like this:
 
-![](https://github.com/swizex/python-tutorials/tree/master/lesson 2 materials/treeview_003.jpg)
+![...](https://github.com/swizex/python-tutorials/tree/master/lesson 2 materials/treeview_003.jpg)
 
 
 Now we can finally sit down and write some code!
@@ -156,7 +156,7 @@ Now lets break it all down:
 It should look like this (right-click on `app.py` and choose run):
 
 
-![](https://github.com/swizex/python-tutorials/tree/master/lesson 2 materials/run_app_001.jpg)
+![...](https://github.com/swizex/python-tutorials/tree/master/lesson 2 materials/run_app_001.jpg)
 
 
 The default configuration will serve our app on port 5000 on our internal network (127.0.0.1).
@@ -171,7 +171,7 @@ So lets right-click on the `templates` folder and create a new file (HTML file),
 our tree view and HTML file should look like this:
 
 
-![](https://github.com/swizex/python-tutorials/tree/master/lesson 2 materials/treeview_and_index_html_001.jpg)
+![...](https://github.com/swizex/python-tutorials/tree/master/lesson 2 materials/treeview_and_index_html_001.jpg)
 
 
 Pycharm will automatically generate a simple HTML page for you.
