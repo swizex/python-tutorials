@@ -165,7 +165,7 @@ return render_template('index.html')
 ```python
 if __name__ == "__main__":
 ```
- - Tells compiler to run the following code below it (when run from cmd).
+ - Tells interpreter to run the following code below it (when run from cmd).
 
 
 ```python
